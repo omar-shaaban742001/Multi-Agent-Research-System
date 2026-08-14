@@ -6,8 +6,8 @@ conda create -n mutli-agent
 
 conda activate mutli-agent
 ```
-
-##install requirements 
+ 
+## install requirements 
 ```bash
 pip install requiremts 
 ```
